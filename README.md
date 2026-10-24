@@ -60,3 +60,4 @@ https://github.com/cloudforge-96/devops-task1
 
 ## Result
 The GitHub Actions workflow automates application testing and Docker image publishing to Docker Hub.
+Pipeline verification completed.
